@@ -22,7 +22,7 @@ Observações:
 
 - Não utilizei Docker ou docker-compose para rodar a aplicação pois para mim, seria mais complicado para a pessoa que quiser rodar este app em sua máquina, já que não possui banco de dados e consome apenas uma API pública na WEB, acaba facilitando o processo, sendo necessário apenas rodar o comando yarn.
 
-- Não criei testes unitários pois não tenho conhecimento na criação de testes no Front-end, apenas Back-end utilizando JEST. Estudei a possiblidade de aprender durante o desafio, mas acredito que isso atrapalharia o prazo e até a qualidade do código, além de que a qualidade/cobertura dos testes poderia não ser das melhores, visto que estaria aprendendo com pressa (seguindo o prazo estipulado).
+- Não criei testes unitários pois não tenho conhecimento na criação de testes no Front-end, apenas Back-end utilizando JEST. Estudei a possiblidade de aprender durante o desafio, mas acredito que isso atrapalharia o prazo e até a qualidade do código, além de que a qualidade/cobertura dos testes poderia não ser das melhores, visto que estaria aprendendo com pressa (seguindo o prazo estipulado). Entretanto, consigo aprender com certa facilidade se necessário para a vaga, visto que já tenho experiência com testes no Back-end.
 
 - Não pude dedicar mais de 3 horas por dia nesse projeto por conta do meu emprego, mas a cada momento que podia desenvolver aqui, desenvolvi com foco, velocidade e a maior qualidade dentro do meu nível atual. Foi um projeto que me divertiu, entreteu, e trouxe aprendizado.
 
