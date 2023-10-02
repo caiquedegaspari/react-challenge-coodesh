@@ -12,7 +12,7 @@ function App() {
 			<ToastContainer />
 			<Box
 				sx={{
-					background: `linear-gradient(${theme.palette.background.default},${theme.palette.success.main})`,
+					background: `linear-gradient(${theme.palette.background.default},${theme.palette.background.paper})`,
 				}}
 				position="absolute"
 				minHeight="100%"
