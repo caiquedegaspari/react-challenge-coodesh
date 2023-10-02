@@ -8,6 +8,6 @@ interface GetRadiosCountReturn {
 }
 
 export const getRadiosCount = async () => {
-	const res = await axios.get<GetRadiosCountReturn>(`${apiURL}/stats`);
+	const res = await axios.get<GetRadiosCountReturn>(`${apiURL}stats`);
 	return res.data.stations;
 };
